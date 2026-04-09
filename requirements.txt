@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+supabase
+pandas
+scikit-learn
+python-dotenv
+google-generativeai
+pydantic
+groq
+prophet
+matplotlib
+plotly

@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+keys.txt
+*.png
+*.csv
+list_genai.py
+list_models.py
+.vscode/
