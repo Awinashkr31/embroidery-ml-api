@@ -23,7 +23,11 @@ app = FastAPI(title="Embroidery ML Recommendation API")
 # Allow Vite frontend to connect
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"], # For production, restrict this to your domain
+    allow_origins=[
+        "http://localhost:5173", 
+        "https://www.embroiderybysana.live",
+        "https://embroiderybysana.live"
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
