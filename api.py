@@ -463,7 +463,8 @@ Generate the following in **strict JSON format only** (no markdown, no backticks
   "metaDescription": "SEO meta description (max 155 chars)",
   "keywords": "comma,separated,seo,keywords",
   "careInstructions": "Brief care/wash instructions",
-  "returnPeriod": 7
+  "returnPeriod": 7,
+  "perfectFor": "Comma separated string of ideal occasions (e.g. Weddings, Gifting, Casual Wear)"
 }}
 
 Rules:
