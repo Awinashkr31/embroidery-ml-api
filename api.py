@@ -341,7 +341,7 @@ Use ONLY these exact markdown links to guide users. NEVER redirect automatically
 - Product Redirect: [View Products](/shop) or specific product link. Redirect after 1 reply.
 - Category Redirect: [Explore Collection](/shop)
 - Tracking Redirect: [Track Order](/profile)
-- WhatsApp Redirect: [Chat on WhatsApp](https://wa.me/1234567890) (for support requests)
+- WhatsApp Redirect: [Chat on WhatsApp](https://wa.me/7428013214) (for support requests)
 - Checkout Redirect: [Complete Checkout](/checkout)
 - Custom Designs: [Custom Embroidery](/custom-design)
 
@@ -438,8 +438,8 @@ Given the following product:
 
 Generate the following in **strict JSON format only** (no markdown, no backticks, no explanation):
 {{
-  "shortDescription": "A compelling 1-2 sentence product summary (max 200 chars)",
-  "detailedDescription": "A rich 3-5 sentence product description highlighting craftsmanship, style, and use-case",
+  "shortDescription": "A compelling 1-2 sentence product summary (max 100 chars)",
+  "detailedDescription": "A rich 2-3 sentence product description highlighting craftsmanship, style, and use-case",
   "keyFeatures": ["feature1", "feature2", "feature3", "feature4", "feature5"],
   "metaTitle": "SEO-optimized page title (max 60 chars)",
   "metaDescription": "SEO meta description (max 155 chars)",
